@@ -1,0 +1,104 @@
+.header-link {
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: 600;
+    margin-left: 15px;
+    margin-top: 10px;
+    float: left;
+    color: #000;
+}
+
+.first-btn {
+    margin-top: 59px;
+    margin-bottom: 137px;
+}
+
+.header-link:hover {
+    cursor: pointer;
+    color: #ff2635;
+}
+
+.header {
+    margin-top: 48px;
+}
+
+.logo {
+    margin-left: -204px;
+}
+
+.btn {
+    background: #ff2635;
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 125px;
+}
+
+.login {
+    background: #fff;
+    color: #000;
+    border: #ff2635 solid 1px;
+    margin-left: 50px;
+}
+
+.first-header {
+    margin-top: 115px;
+    color: #313131;
+    font-size: 35px;
+    font-family: Montserrat;
+    margin-bottom: 58px;
+}
+
+.bold-text {
+    font-family: Montserrat;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    margin-top:-25px;
+    width: 600px;
+}
+
+.bold-text span {
+    color: #ff2635;
+}
+
+.first {
+    margin-top: 50px;
+}
+
+.lang {
+    margin-top: 8px;
+}
+
+.feature-text {
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+.feature-description {
+    margin-top: 200px;
+}
+
+.feature-description p {
+    margin-left: 50px;
+    width: 600px;
+}
+
+.red-large {
+    background: #ff2635;
+    color: #ffffff;
+    font-size: 27px;
+    border: none;
+    font-family: Montserrat;
+    width: 333px;
+    height: 71px;
+}
+
+.feature-description-text {
+    margin-top: -15px;
+    margin-bottom: 25px;
+}
+
+.last-percents {
+    font-size: 99px;
+}
