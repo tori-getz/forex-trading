@@ -102,3 +102,10 @@
 .last-percents {
     font-size: 99px;
 }
+
+.footer {
+    background-image: url("../img/footer.svg");
+    height: 1212px;
+    width: 100%;
+    background-position: center;
+}
